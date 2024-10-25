@@ -1,7 +1,4 @@
-import entities.Arma;
-import entities.Armadura;
-import entities.Habilidade;
-import entities.Personagem;
+import entities.*;
 import entities.enums.*;
 
 

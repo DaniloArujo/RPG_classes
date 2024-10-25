@@ -1,7 +1,6 @@
 package entities;
 
 import entities.enums.Classe;
-import entities.enums.Status;
 
 import java.util.ArrayList;
 import java.util.List;

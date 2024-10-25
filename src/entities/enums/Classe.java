@@ -1,7 +1,7 @@
 package entities.enums;
 
 import entities.Habilidade;
-
+import entities.ModificadorStatus;
 
 
 public enum Classe {

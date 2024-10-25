@@ -1,6 +1,5 @@
 package entities;
 
-import entities.enums.Status;
 import entities.enums.TipoHabilidade;
 
 public class Habilidade {
